@@ -12,11 +12,10 @@ and parse tree and finally walks the parse tree.
 On running the application, the CSV input provided in the console is converted to JSON format.
 
 Sample CSV Input:
-
-Details,Month,Amount
-Mid bonus,June,"$2000"
-,January ,"Zippo"
-Total Bonuses,"","$5000"
+  Details,Month,Amount
+  Mid bonus,June,"$2000"
+  ,January ,"Zippo"
+  Total Bonuses,"","$5000"
 
 JSON Output:
 
